@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+div {
+    border: solid 1px navy;
+    margin: 10px;
+    
+}
+
+#jkTitle {
+    color: darkmagenta;
+}
+
+#vTitle {
+    color: grey;
+}
+
+#jiminTitle {
+    color: blue;
+}
+
+#rmTitle{
+    color: purple;
+}
+
+#jhopeTitle {
+    color: green;
+}
+
+#jinTitle{
+    color: pink;
+}
+
+#sugaTitle {
+    color: darkviolet;
+}
