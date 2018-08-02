@@ -1,11 +1,14 @@
 body{
+    background-color: paleturquoise;
+}
+
+h1 {
     text-align: center;
 }
 
-div {
-    border: solid 1px navy;
-    margin: 10px;
-    
+p{
+    font-size: 180%;
+    text-align: center;
 }
 
 #jkTitle {
@@ -35,3 +38,4 @@ div {
 #sugaTitle {
     color: darkviolet;
 }
+
